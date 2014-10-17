@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[zpd:home|Door43 (zpd)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-zpd|d43-zpd repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-zpd/archive/master.zip|d43-zpd.zip]]
+
+**Recent Changes**
+{{changes>ns = zpd}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/zpd|Ethnologue data]]
+
